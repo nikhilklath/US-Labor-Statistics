@@ -1,7 +1,7 @@
 *****************************************************
 * Candidate Name: Nikhil Kumar			    *
 * Date: 7/12/2020				    *
-* Stata Version Used: Stata 16 SE					*
+* Stata Version Used: Stata 16 SE		    *
 *****************************************************
 
 /*
